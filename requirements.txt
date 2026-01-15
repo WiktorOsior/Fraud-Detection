@@ -1,0 +1,23 @@
+# Data Manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Preprocessing
+scikit-learn
+imblearn
+
+# Gradient Boosting
+xgboost
+
+# Deep Learning
+tensorflow>=2.0.0
+
+# Time Series Classification
+sktime
+
+# Utilities
+scipy
