@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive pipeline for detecting fraudulent transactions using a multi-layered data science approach. The project evaluates multiple models, ranging from traditional decision trees to state-of-the-art time-series deep learning.
 
-## 📌 Project Overview
+##  Project Overview
 Fraud detection is a classic imbalanced classification problem. This project utilizes a dataset containing customer profiles, transaction metadata, and merchant info to identify suspicious activities.
 
 ### Key Features of the Pipeline:
